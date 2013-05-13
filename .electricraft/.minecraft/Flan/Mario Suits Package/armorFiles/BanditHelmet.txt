@@ -1,0 +1,8 @@
+Name Bandit Helmet
+ShortName BanditHelmet
+ItemID 23888
+Icon BanditHelmet
+Colour 255 255 255
+Type Hat
+Defence 0.1
+ArmourTexture Bandit

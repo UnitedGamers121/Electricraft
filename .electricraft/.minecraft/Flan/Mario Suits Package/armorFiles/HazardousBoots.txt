@@ -1,0 +1,8 @@
+Name Hazardous Boots
+ShortName hazardousBoots
+ItemID 23454
+Icon rs_boots
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture rs

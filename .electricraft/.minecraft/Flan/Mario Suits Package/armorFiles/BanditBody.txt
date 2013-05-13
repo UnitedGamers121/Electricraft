@@ -1,0 +1,8 @@
+Name Bandit Bodyarmour
+ShortName BanditBody
+ItemID 23886
+Icon BanditBody
+Colour 255 255 255
+Type Chest
+Defence 0.1
+ArmourTexture Bandit

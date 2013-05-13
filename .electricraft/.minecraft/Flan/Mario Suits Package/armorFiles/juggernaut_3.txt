@@ -1,0 +1,8 @@
+Name Juggernaut Helmet
+ShortName JuggernautHelmet
+ItemID 23393
+Icon BritishHelmet
+Colour 255 255 255
+Type Helmet
+Defence 0.9
+ArmourTexture British

@@ -1,0 +1,8 @@
+Name Hazardous Pants
+ShortName HazardousPants
+ItemID 23484
+Icon rs_legs
+Colour 255 255 255
+Type Pants
+Defence 0.1
+ArmourTexture rs

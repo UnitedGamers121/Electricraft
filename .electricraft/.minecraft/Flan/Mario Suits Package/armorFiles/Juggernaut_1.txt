@@ -1,0 +1,8 @@
+Name Juggernaut Boots
+ShortName britishBoots
+ItemID 23373
+Icon BritishBoots
+Colour 255 255 255
+Type Boots
+Defence 0.9
+ArmourTexture British

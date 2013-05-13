@@ -1,0 +1,44 @@
+---- Minecraft Crash Report ----
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 12/05/13 17:16
+Description: Failed to start game
+
+java.lang.RuntimeException: The requested image path /icons/SlingAmmo.png is not found
+	at cpw.mods.fml.client.TextureFXManager.loadImageFromTexturePack(TextureFXManager.java:305)
+	at cpw.mods.fml.client.TextureFXManager.registerTextureOverrides(TextureFXManager.java:243)
+	at cpw.mods.fml.client.TextureFXManager.loadTextures(TextureFXManager.java:228)
+	at cpw.mods.fml.client.FMLClientHandler.onInitializationComplete(FMLClientHandler.java:247)
+	at net.minecraft.client.Minecraft.a(Minecraft.java:489)
+	at asq.a(SourceFile:56)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:746)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.4.7
+	Operating System: Windows 7 (x86) version 6.1
+	Java Version: 1.6.0_20, Sun Microsystems Inc.
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode, sharing), Sun Microsystems Inc.
+	Memory: 444694784 bytes (424 MB) / 518979584 bytes (494 MB) up to 518979584 bytes (494 MB)
+	JVM Flags: 2 total; -Xms512m -Xmx512m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.26a FML v4.7.35.556 Minecraft Forge 6.6.2.534 Optifine OptiFine_1.4.6_HD_U_D5 5 mods loaded, 5 mods active
+	mcp [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	FML [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	Forge [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	FlansMod [Flan's Mod] (Flans Mod 2.1.1 for Minecraft 1.4.7 Universal.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	mod_shutter [mod_shutter] (shutter146ml1.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	LWJGL: 2.4.2
+	OpenGL: Mobile Intel(R) 4 Series Express Chipset Family GL version 2.1.0 - Build 8.15.10.1892, Intel
+	Is Modded: Definitely; Client brand changed to 'forge,fml'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null

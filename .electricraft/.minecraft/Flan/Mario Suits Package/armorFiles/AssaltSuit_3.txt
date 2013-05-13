@@ -1,0 +1,8 @@
+Name Assalt Helmet
+ShortName AssaltHelmet
+ItemID 23473
+Icon JapaneseHelmet
+Colour 255 255 255
+Type Helmet
+Defence 0.1
+ArmourTexture Japanese

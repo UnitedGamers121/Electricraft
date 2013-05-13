@@ -1,0 +1,8 @@
+Name Desert Ghillie Coat
+ShortName desertghillieCoat
+ItemID 23423
+Icon GermanCoat
+Colour 255 255 255
+Type Body
+Defence 0.1
+ArmourTexture German

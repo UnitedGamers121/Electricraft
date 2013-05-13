@@ -1,0 +1,8 @@
+Name Hazardous Helmet
+ShortName HazardousHelmet
+ItemID 23474
+Icon rs_helmet
+Colour 255 255 255
+Type Helmet
+Defence 0.1
+ArmourTexture rs

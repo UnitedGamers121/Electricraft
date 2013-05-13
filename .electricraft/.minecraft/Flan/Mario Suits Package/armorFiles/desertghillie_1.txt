@@ -1,0 +1,8 @@
+Name Desert Ghillie Boots
+ShortName desertghillieBoots
+ItemID 23413
+Icon GermanBoots
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture German

@@ -1,0 +1,292 @@
+
+OptiFine_1.4.6_HD_U_D5
+Sun May 12 17:17:05 BST 2013
+OS: Windows 7 (x86) version 6.1
+Java: 1.6.0_20, Sun Microsystems Inc.
+VM: Java HotSpot(TM) Client VM (mixed mode, sharing), Sun Microsystems Inc.
+LWJGL: 2.4.2
+OpenGL: Mobile Intel(R) 4 Series Express Chipset Family version 2.1.0 - Build 8.15.10.1892, Intel
+OpenGL Version: 2.1
+OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+(Reflector) Class not present: LightCache
+(Reflector) Class not present: BlockCoord
+TextureFX registered: bdj@1d382ab, texId: 7, index: 237
+TextureFX registered: bdm@1ce00b4, texId: 7, index: 205
+TextureFX registered: bdk@19067e5, texId: 7, index: 14
+TextureFX registered: bdf@6d6aa0, texId: 8, index: 54
+TextureFX registered: bde@f1fad1, texId: 8, index: 70
+TextureFX registered: bdl@8c858a, texId: 7, index: 206
+TextureFX registered: bdi@1933acb, texId: 7, index: 238
+TextureFX registered: bdh@f9104a, texId: 7, index: 31
+TextureFX registered: bdh@19c9f16, texId: 7, index: 47
+TextureFX removed: bdj@1d382ab, texId: 7, index: 237
+TextureFX registered: TextureHDLavaFX@b9132a, texId: 7, index: 237
+TextureFX removed: bdm@1ce00b4, texId: 7, index: 205
+TextureFX registered: TextureHDWaterFX@996b65, texId: 7, index: 205
+TextureFX removed: bdk@19067e5, texId: 7, index: 14
+TextureFX registered: TextureHDPortalFX@59c8b5, texId: 7, index: 14
+TextureFX removed: bdl@8c858a, texId: 7, index: 206
+TextureFX registered: TextureHDWaterFlowFX@881cb3, texId: 7, index: 206
+TextureFX removed: bdi@1933acb, texId: 7, index: 238
+TextureFX registered: TextureHDLavaFlowFX@143753, texId: 7, index: 238
+TextureFX removed: bdh@f9104a, texId: 7, index: 31
+TextureFX registered: TextureHDFlamesFX@13c4c09, texId: 7, index: 31
+TextureFX removed: bdh@19c9f16, texId: 7, index: 47
+TextureFX registered: TextureHDFlamesFX@1e6978d, texId: 7, index: 47
+TextureFX removed: bdf@6d6aa0, texId: 8, index: 54
+TextureFX registered: TextureHDCompassFX@1798928, texId: 8, index: 54
+TextureFX removed: bde@f1fad1, texId: 8, index: 70
+TextureFX registered: TextureHDWatchFX@f5b2e4, texId: 8, index: 70
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 12, texId: 16, index: 12
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 13, texId: 16, index: 13
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 14, texId: 16, index: 14
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 15, texId: 16, index: 15
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 16, texId: 16, index: 16
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 17, texId: 16, index: 17
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 18, texId: 16, index: 18
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 19, texId: 16, index: 19
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 20, texId: 16, index: 20
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 21, texId: 16, index: 21
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 22, texId: 16, index: 22
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 23, texId: 16, index: 23
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 24, texId: 16, index: 24
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 25, texId: 16, index: 25
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 26, texId: 16, index: 26
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 27, texId: 16, index: 27
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 28, texId: 16, index: 28
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 29, texId: 16, index: 29
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 30, texId: 16, index: 30
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 31, texId: 16, index: 31
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 32, texId: 16, index: 32
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 33, texId: 16, index: 33
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 34, texId: 16, index: 34
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 35, texId: 16, index: 35
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 36, texId: 16, index: 36
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 37, texId: 16, index: 37
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 38, texId: 16, index: 38
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 39, texId: 16, index: 39
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 40, texId: 16, index: 40
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 41, texId: 16, index: 41
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 42, texId: 16, index: 42
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 43, texId: 16, index: 43
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 44, texId: 16, index: 44
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 45, texId: 16, index: 45
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 46, texId: 16, index: 46
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 47, texId: 16, index: 47
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 48, texId: 16, index: 48
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 49, texId: 16, index: 49
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 50, texId: 16, index: 50
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 51, texId: 16, index: 51
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 52, texId: 16, index: 52
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 53, texId: 16, index: 53
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 54, texId: 16, index: 54
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 55, texId: 16, index: 55
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 56, texId: 16, index: 56
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 57, texId: 16, index: 57
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 58, texId: 16, index: 58
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 59, texId: 16, index: 59
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 60, texId: 16, index: 60
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 61, texId: 16, index: 61
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 62, texId: 16, index: 62
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 63, texId: 16, index: 63
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 64, texId: 16, index: 64
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 65, texId: 16, index: 65
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 66, texId: 16, index: 66
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 67, texId: 16, index: 67
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 68, texId: 16, index: 68
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 69, texId: 16, index: 69
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 70, texId: 16, index: 70
+TextureFX registered: ModTextureStatic /spriteSheets/armour.png @ 71, texId: 16, index: 71
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 2, texId: 15, index: 2
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 3, texId: 15, index: 3
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 4, texId: 15, index: 4
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 5, texId: 15, index: 5
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 6, texId: 15, index: 6
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 11, texId: 15, index: 11
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 8, texId: 15, index: 8
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 7, texId: 15, index: 7
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 9, texId: 15, index: 9
+TextureFX registered: ModTextureStatic /spriteSheets/gunBoxes.png @ 10, texId: 15, index: 10
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 0, texId: 12, index: 0
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 1, texId: 12, index: 1
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 2, texId: 12, index: 2
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 3, texId: 12, index: 3
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 4, texId: 12, index: 4
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 5, texId: 12, index: 5
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 6, texId: 12, index: 6
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 7, texId: 12, index: 7
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 8, texId: 12, index: 8
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 9, texId: 12, index: 9
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 10, texId: 12, index: 10
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 11, texId: 12, index: 11
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 12, texId: 12, index: 12
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 13, texId: 12, index: 13
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 14, texId: 12, index: 14
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 15, texId: 12, index: 15
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 16, texId: 12, index: 16
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 17, texId: 12, index: 17
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 18, texId: 12, index: 18
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 19, texId: 12, index: 19
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 20, texId: 12, index: 20
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 21, texId: 12, index: 21
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 22, texId: 12, index: 22
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 23, texId: 12, index: 23
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 24, texId: 12, index: 24
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 25, texId: 12, index: 25
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 26, texId: 12, index: 26
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 27, texId: 12, index: 27
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 28, texId: 12, index: 28
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 29, texId: 12, index: 29
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 30, texId: 12, index: 30
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 31, texId: 12, index: 31
+TextureFX registered: ModTextureStatic /spriteSheets/parts.png @ 32, texId: 12, index: 32
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 0, texId: 10, index: 0
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 1, texId: 10, index: 1
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 2, texId: 10, index: 2
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 3, texId: 10, index: 3
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 4, texId: 10, index: 4
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 5, texId: 10, index: 5
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 6, texId: 10, index: 6
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 7, texId: 10, index: 7
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 8, texId: 10, index: 8
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 9, texId: 10, index: 9
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 10, texId: 10, index: 10
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 11, texId: 10, index: 11
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 12, texId: 10, index: 12
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 13, texId: 10, index: 13
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 14, texId: 10, index: 14
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 15, texId: 10, index: 15
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 16, texId: 10, index: 16
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 17, texId: 10, index: 17
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 18, texId: 10, index: 18
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 19, texId: 10, index: 19
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 20, texId: 10, index: 20
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 21, texId: 10, index: 21
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 22, texId: 10, index: 22
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 23, texId: 10, index: 23
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 24, texId: 10, index: 24
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 25, texId: 10, index: 25
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 26, texId: 10, index: 26
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 27, texId: 10, index: 27
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 28, texId: 10, index: 28
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 29, texId: 10, index: 29
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 30, texId: 10, index: 30
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 31, texId: 10, index: 31
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 32, texId: 10, index: 32
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 33, texId: 10, index: 33
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 34, texId: 10, index: 34
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 35, texId: 10, index: 35
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 36, texId: 10, index: 36
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 37, texId: 10, index: 37
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 38, texId: 10, index: 38
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 39, texId: 10, index: 39
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 40, texId: 10, index: 40
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 41, texId: 10, index: 41
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 42, texId: 10, index: 42
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 43, texId: 10, index: 43
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 44, texId: 10, index: 44
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 45, texId: 10, index: 45
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 46, texId: 10, index: 46
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 47, texId: 10, index: 47
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 48, texId: 10, index: 48
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 49, texId: 10, index: 49
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 50, texId: 10, index: 50
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 51, texId: 10, index: 51
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 52, texId: 10, index: 52
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 53, texId: 10, index: 53
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 54, texId: 10, index: 54
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 55, texId: 10, index: 55
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 56, texId: 10, index: 56
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 57, texId: 10, index: 57
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 58, texId: 10, index: 58
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 59, texId: 10, index: 59
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 60, texId: 10, index: 60
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 61, texId: 10, index: 61
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 62, texId: 10, index: 62
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 63, texId: 10, index: 63
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 64, texId: 10, index: 64
+TextureFX registered: ModTextureStatic /spriteSheets/bullets.png @ 65, texId: 10, index: 65
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 7, texId: 13, index: 7
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 6, texId: 13, index: 6
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 5, texId: 13, index: 5
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 8, texId: 13, index: 8
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 11, texId: 13, index: 11
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 10, texId: 13, index: 10
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 12, texId: 13, index: 12
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 9, texId: 13, index: 9
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 13, texId: 13, index: 13
+TextureFX registered: ModTextureStatic /spriteSheets/planes.png @ 14, texId: 13, index: 14
+TextureFX registered: ModTextureStatic /spriteSheets/vehicles.png @ 2, texId: 14, index: 2
+TextureFX registered: ModTextureStatic /spriteSheets/vehicles.png @ 5, texId: 14, index: 5
+TextureFX registered: ModTextureStatic /spriteSheets/vehicles.png @ 3, texId: 14, index: 3
+TextureFX registered: ModTextureStatic /spriteSheets/vehicles.png @ 4, texId: 14, index: 4
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 0, texId: 11, index: 0
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 1, texId: 11, index: 1
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 2, texId: 11, index: 2
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 3, texId: 11, index: 3
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 4, texId: 11, index: 4
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 5, texId: 11, index: 5
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 6, texId: 11, index: 6
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 7, texId: 11, index: 7
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 8, texId: 11, index: 8
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 9, texId: 11, index: 9
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 10, texId: 11, index: 10
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 11, texId: 11, index: 11
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 12, texId: 11, index: 12
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 13, texId: 11, index: 13
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 14, texId: 11, index: 14
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 15, texId: 11, index: 15
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 16, texId: 11, index: 16
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 17, texId: 11, index: 17
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 18, texId: 11, index: 18
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 19, texId: 11, index: 19
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 20, texId: 11, index: 20
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 21, texId: 11, index: 21
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 22, texId: 11, index: 22
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 23, texId: 11, index: 23
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 24, texId: 11, index: 24
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 25, texId: 11, index: 25
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 26, texId: 11, index: 26
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 27, texId: 11, index: 27
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 28, texId: 11, index: 28
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 29, texId: 11, index: 29
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 30, texId: 11, index: 30
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 31, texId: 11, index: 31
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 32, texId: 11, index: 32
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 33, texId: 11, index: 33
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 34, texId: 11, index: 34
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 35, texId: 11, index: 35
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 36, texId: 11, index: 36
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 37, texId: 11, index: 37
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 38, texId: 11, index: 38
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 39, texId: 11, index: 39
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 40, texId: 11, index: 40
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 41, texId: 11, index: 41
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 42, texId: 11, index: 42
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 43, texId: 11, index: 43
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 44, texId: 11, index: 44
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 45, texId: 11, index: 45
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 46, texId: 11, index: 46
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 47, texId: 11, index: 47
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 48, texId: 11, index: 48
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 49, texId: 11, index: 49
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 50, texId: 11, index: 50
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 51, texId: 11, index: 51
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 52, texId: 11, index: 52
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 53, texId: 11, index: 53
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 54, texId: 11, index: 54
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 55, texId: 11, index: 55
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 56, texId: 11, index: 56
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 57, texId: 11, index: 57
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 58, texId: 11, index: 58
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 59, texId: 11, index: 59
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 60, texId: 11, index: 60
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 61, texId: 11, index: 61
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 62, texId: 11, index: 62
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 63, texId: 11, index: 63
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 64, texId: 11, index: 64
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 65, texId: 11, index: 65
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 66, texId: 11, index: 66
+TextureFX registered: ModTextureStatic /spriteSheets/guns.png @ 67, texId: 11, index: 67

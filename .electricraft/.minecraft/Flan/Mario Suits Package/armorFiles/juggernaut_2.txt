@@ -1,0 +1,8 @@
+Name Juggernaut Coat
+ShortName JuggernautCoat
+ItemID 23383
+Icon BritishCoat
+Colour 255 255 255
+Type Body
+Defence 0.9
+ArmourTexture British

@@ -1,0 +1,8 @@
+Name Ghillie Boots
+ShortName ghillieBoots
+ItemID 23333
+Icon AmericanBoots
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture American

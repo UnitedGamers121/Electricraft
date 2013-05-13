@@ -1,0 +1,8 @@
+Name Desert Ghillie Helmet
+ShortName desertghillieHelmet
+ItemID 23433
+Icon GermanHelmet
+Colour 255 255 255
+Type Helmet
+Defence 0.1
+ArmourTexture German

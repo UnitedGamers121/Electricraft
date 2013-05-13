@@ -1,0 +1,8 @@
+Name Juggernaut Trousers
+ShortName JuggernautPants
+ItemID 23403
+Icon BritishPants
+Colour 255 255 255
+Type Pants
+Defence 0.9
+ArmourTexture British

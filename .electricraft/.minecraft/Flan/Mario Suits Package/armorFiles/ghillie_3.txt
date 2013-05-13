@@ -1,0 +1,8 @@
+Name Ghillie Helmet
+ShortName GhillieHelmet
+ItemID 23353
+Icon AmericanHelmet
+Colour 255 255 255
+Type Helmet
+Defence 0.1
+ArmourTexture American

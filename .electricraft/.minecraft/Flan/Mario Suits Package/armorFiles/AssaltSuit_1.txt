@@ -1,0 +1,8 @@
+Name Assalt Boots
+ShortName AssaltBoots
+ItemID 23453
+Icon JapaneseBoots
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture Japanese

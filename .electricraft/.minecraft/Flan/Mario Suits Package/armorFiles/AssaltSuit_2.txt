@@ -1,0 +1,8 @@
+Name Assalt Coat
+ShortName AssaltCoat
+ItemID 23463
+Icon JapaneseCoat
+Colour 255 255 255
+Type Body
+Defence 0.1
+ArmourTexture Japanese
